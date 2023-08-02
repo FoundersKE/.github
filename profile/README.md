@@ -7,3 +7,4 @@
 </div>
 
 - Empowers young entrepreneurs by providing mentorship and resources to turn their ideas into successful start-ups.
+- Visit [Our Home Page](https://founderske.vercel.app/) to learn more.
